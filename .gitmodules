@@ -1,0 +1,6 @@
+[submodule "project-cpp-js-kbp"]
+	path = project-cpp-js-kbp
+	url = https://github.com/zaaammmmm/project-cpp-js-kbp.git
+[submodule "project-php-bbp"]
+	path = project-php-bbp
+	url = https://github.com/zaaammmmm/project-php-bbp.git
